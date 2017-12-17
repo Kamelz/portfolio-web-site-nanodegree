@@ -1,0 +1,44 @@
+.navbar {
+    border-bottom: 5px solid #7d97ad;
+}
+.logo {
+    color: #02b3e4;
+    font-size: 68px;
+}
+.header {
+    text-transform: uppercase;
+    font-weight: 200;
+}
+.sub-header {
+    text-transform: uppercase;
+    padding-left: 8%;
+    font-weight: 100;
+}
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+.carousel-inner img {
+    width: 100%;
+    margin: auto;
+    min-height: 200px;
+}
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none;
+    }
+}
+.right-header {
+    padding-left: 30%;
+}
+.featured {
+    font-size: 30px;
+    font-weight: 200;
+}
+a:link {
+    text-decoration: none;
+}
