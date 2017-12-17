@@ -1,2 +1,2 @@
-# portfolio-web-site-nanodegree
+# portfolio-website-nanodegree
 A simple HTML,CSS portfolio website. 
