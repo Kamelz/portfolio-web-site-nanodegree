@@ -29,13 +29,6 @@ footer {
 }
 
 
-.carousel-inner img {
-    width: 100%;
-    margin: auto;
-    min-height: 200px;
-}
-
-
 .right-header {
     padding-left: 26%;
 }
@@ -52,18 +45,18 @@ a:link {
 }
 
 
-.image-size{
+.image-size {
     width: 304px;
     height: 236px;
 }
 
 
-.github-icon{
+.github-icon {
     font-size: 44px;
     color: black;
 }
 
 
-.github-icon:hover{
+.github-icon:hover {
     color: #02b3e4;
 }
